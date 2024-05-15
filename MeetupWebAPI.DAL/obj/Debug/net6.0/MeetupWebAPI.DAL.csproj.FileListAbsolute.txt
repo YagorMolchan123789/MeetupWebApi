@@ -1,0 +1,14 @@
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.AssemblyInfo.cs
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\bin\Debug\net6.0\MeetupWebAPI.DAL.deps.json
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\bin\Debug\net6.0\MeetupWebAPI.DAL.runtimeconfig.json
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\bin\Debug\net6.0\MeetupWebAPI.DAL.dll
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\bin\Debug\net6.0\MeetupWebAPI.DAL.pdb
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.dll
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\refint\MeetupWebAPI.DAL.dll
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.pdb
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\MeetupWebAPI.DAL.genruntimeconfig.cache
+C:\Users\molch\source\repos\MeetupWebAPI\MeetupWebAPI.DAL\obj\Debug\net6.0\ref\MeetupWebAPI.DAL.dll
